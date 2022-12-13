@@ -45,7 +45,7 @@ httpd.serve_forever()
 ~~~
 ## OUTPUT:
 ### server side output:
-![Server side](./images/Screenshot_20221211_210945.png)
+![Server side](./images/Screenshot_20221211_185106.png)
 
 ### client side output:
 ![Client side](./images/Screenshot_20221213_102229.png)
